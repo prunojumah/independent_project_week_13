@@ -1,7 +1,5 @@
 # independent_project_week_13
 
-# Independent_Project_Week_12
-
 ## PREDICTION FOR THE LIKELIHOOD OF AN INDIVIDUAL TO CLICK AN AD
 
 #### {The main aim of this project is to determine which group of individuals are more likely to click on an add of a cryptography course offered by a Kenyan entrepreneur. The project is done in R..}
